@@ -29,7 +29,8 @@ This is a basic project with the purpose of learning the different commands and 
 Tcpdump is included with several Linux distributions, but by any chance you do not have it installed, please follow the steps below to get it resolved.
 
 1. Check whether tcpdump is installed
-`which tcpdump`
+2.
+3. `which tcpdump`
 
-2. Installing tcpdump
+4. Installing tcpdump
 `sudo dnf install -y tcpdump`
