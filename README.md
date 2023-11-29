@@ -16,7 +16,7 @@ This is a basic project with the purpose of learning the different commands and 
 ## Arguments Explored
 - -c: *capture*
 - -w: 
-- -#
+- -#: *adds line numbering*
 - -XX
 - -tttt
 - -G
@@ -52,3 +52,8 @@ Tcpdump is included with several Linux distributions, but by any chance you do n
 `sudo tcpdump -c 10`
 
 ![Picture4](https://github.com/Ammarisanewbie/tcpdump/assets/108499824/b1390383-1742-4937-ade8-11d915965487)
+
+
+`sudo tcpdump -c 10 #`: adds line and numbering for better readability
+
+
