@@ -42,7 +42,12 @@ Tcpdump is included with several Linux distributions, but by any chance you do n
 ### Open up terminal
 ![Picture1](https://github.com/Ammarisanewbie/tcpdump/assets/108499824/c3087b76-58c2-4d13-8fab-752b4cb51148)
 
-### tcpdump Manual
+### Tcpdump Manual 
 `man tcpdump`
+
+![Picture3](https://github.com/Ammarisanewbie/tcpdump/assets/108499824/3e899ad0-3125-405f-a6aa-954f2855f9cd)
+
+
+### Capturing 10 packets
 
 
