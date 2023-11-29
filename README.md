@@ -13,8 +13,7 @@ This is a basic project with the purpose of learning the different commands and 
 2. Using tcpdump to capture TCP packets
 3. Analyse captured packets
 
-### Arguments Explored
----
+## Arguments Explored
 - -c
 - -w
 - -#
@@ -27,8 +26,7 @@ This is a basic project with the purpose of learning the different commands and 
 - host
 - port
 
-### Installation
----
+## Installation
 Tcpdump is included with several Linux distributions, but by any chance you do not have it installed, please follow the steps below to get it resolved.
 
 1. Check whether tcpdump is installed with
@@ -41,6 +39,6 @@ Tcpdump is included with several Linux distributions, but by any chance you do n
 `sudo apt update && upgrade`
 
 ## Program Walk-through
----
-### Basic
+
+## Basic
 
