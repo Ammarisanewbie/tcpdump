@@ -1,5 +1,4 @@
 # Analysing Traffic with tcpdump on Linux
---
 Welcome to my project about studying packet analysis with tcpdump. Here, I'll share what I've learned and the procedures and knowledge I've gathered during this hands-on practice.
 
 ### Description
