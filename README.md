@@ -49,11 +49,11 @@ Tcpdump is included with several Linux distributions, but by any chance you do n
 
 
 ### Capturing 10 packets
-`sudo tcpdump -c 10`
+- `sudo tcpdump -c 10`
 
 ![Picture4](https://github.com/Ammarisanewbie/tcpdump/assets/108499824/b1390383-1742-4937-ade8-11d915965487)
 
+- `sudo tcpdump -c 10 #`: adds line and numbering for better readability
 
-`sudo tcpdump -c 10 #`: adds line and numbering for better readability
-
+![Picture5](https://github.com/Ammarisanewbie/tcpdump/assets/108499824/319b5b10-51d2-4472-9e8d-cec126cd0779)
 
