@@ -39,5 +39,10 @@ Tcpdump is included with several Linux distributions, but by any chance you do n
 `sudo apt update && upgrade`
 
 ## Basic
+### Open up terminal
+![Picture1](https://github.com/Ammarisanewbie/tcpdump/assets/108499824/c3087b76-58c2-4d13-8fab-752b4cb51148)
+
+### tcpdump Manual
+`man tcpdump`
 
 
