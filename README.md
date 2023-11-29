@@ -33,3 +33,6 @@ Tcpdump is included with several Linux distributions, but by any chance you do n
 
 2. Installing tcpdump with
 `sudo dnf install -y tcpdump`
+
+3. Install and upgrade any updates
+`sudo apt update && upgrade`
