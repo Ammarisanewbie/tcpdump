@@ -14,8 +14,8 @@ This is a basic project with the purpose of learning the different commands and 
 3. Analyse captured packets
 
 ## Arguments Explored
-- -c
-- -w
+- -c: *capture*
+- -w: 
 - -#
 - -XX
 - -tttt
@@ -49,5 +49,6 @@ Tcpdump is included with several Linux distributions, but by any chance you do n
 
 
 ### Capturing 10 packets
+`sudo tcpdump -c 10`
 
-
+![Picture4](https://github.com/Ammarisanewbie/tcpdump/assets/108499824/b1390383-1742-4937-ade8-11d915965487)
