@@ -38,7 +38,6 @@ Tcpdump is included with several Linux distributions, but by any chance you do n
 3. Install and upgrade any updates
 `sudo apt update && upgrade`
 
-## Program Walk-through
-
 ## Basic
+
 
