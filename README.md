@@ -12,7 +12,7 @@ This is a basic project with the purpose of learning the different commands and 
 ---
 1. How tcpdump works
 2. Using tcpdump to capture TCP packets
-3. Analyse captured packets
+3. Basic scripting
 
 ## Arguments Explored
 - -c: *capture*
