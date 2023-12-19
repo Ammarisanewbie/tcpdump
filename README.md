@@ -6,6 +6,7 @@ This is a basic project with the purpose of learning the different commands and 
 
 ## Software/ Tools Used
 - tcpdump
+- vscode
 
 ### Learning Objectives
 ---
