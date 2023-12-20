@@ -131,8 +131,8 @@ Tcpdump is included with several Linux distributions, but by any chance you do n
 - `sudo tcpdump -#XXtttt ‘tcp[((tcp[12:1] & 0xf0) >> 2) :4] = 0x47455420` 
   <img src="https://github.com/Ammarisanewbie/tcpdump/assets/108499824/fe02b641-b2aa-4048-8ebd-054cbc6e4d8a" height="500">
 
-
-
+## Conclusion
+I now have a deeper understanding of packet analysis with tcpdump thanks to this project. If you want to learn more about tcpdump, check out the [official documentation](https://www.tcpdump.org/manpages/tcpdump.1.html).
 
 
 
